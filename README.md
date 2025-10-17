@@ -1,4 +1,2 @@
-This line was added locally.
-This line was added remotely from GitHub.
-This line was added remotely again from Github
+This line was updated locally and remotely successfully.
 
