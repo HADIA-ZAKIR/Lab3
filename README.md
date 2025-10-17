@@ -1,2 +1,1 @@
-This line was updated locally and remotely successfully.
-
+This is first text line for reset
