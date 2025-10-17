@@ -1,1 +1,1 @@
-This is first text line for reset
+This is second test line for reset
